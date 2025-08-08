@@ -62,7 +62,7 @@ Run the Notebook or Script—e.g., launch a Jupyter Notebook or execute a .py fi
 
 ---
 
-## About Me
+##  About Me
 ### Alfiya Simran
 
 - Final-year BTech student
