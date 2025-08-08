@@ -1,0 +1,5 @@
+{
+  "name": "DocuQuery AI",
+  "description": "An intelligent system that allows you to upload documents (PDF, DOCX, TXT) and ask questions based on their content. The application uses AI to provide context-aware answers directly from your files.",
+  "requestFramePermissions": []
+}
