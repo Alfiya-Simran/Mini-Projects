@@ -1,0 +1,16 @@
+We are looking for a highly skilled Software Engineer with experience in Python, Django, and RESTful APIs. 
+The candidate should be familiar with cloud platforms like AWS or Azure and have a strong understanding of database systems such as PostgreSQL or MongoDB.
+
+Required Skills:
+- Python
+- Django or Flask
+- REST APIs
+- SQL / PostgreSQL
+- Git
+- Basic knowledge of cloud computing
+
+Preferred Qualifications:
+- Experience with Docker and CI/CD
+- Familiarity with frontend frameworks like React
+- Excellent problem-solving skills
+- Strong communication and teamwork abilities

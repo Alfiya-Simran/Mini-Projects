@@ -1,0 +1,6 @@
+# requirements.txt
+streamlit
+spacy
+scikit-learn
+pandas
+PyMuPDF
