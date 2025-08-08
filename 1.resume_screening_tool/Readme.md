@@ -10,15 +10,13 @@ An interactive Streamlit application that automatically ranks resumes based on a
 - Uses a semantic similarity model to **rank resumes** by relevance.
 - Download a **CSV** of ranked resumes with their scores.
 
----
-
 ## 🛠️ Installation
 
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/resume-screening-app.git
-cd resume-screening-app
+git clone https://github.com/Alfiya-Simran/1.resume_screening_tool.git
+cd 1.resume_screening_tool
 ```
 
 2. **Create a Virtual Environment (Optional but Recommended)**
@@ -38,27 +36,18 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
----
 
 ## 📁 Folder Structure
-
+```bash
 resume-screening-app/
-
 │ 
-
 ├── app.py  # Main Streamlit app
-
 ├── resume_parser.py           # PDF text extraction
-
 ├── job_matcher.py             # Resume ranking logic
-
 ├── requirements.txt           # Python dependencies
-
 ├── sample_job.txt             # Optional pre-filled job description
-
 └── uploads/                   # Folder to temporarily store uploaded resumes
-
----
+```
 
 ## 📌 Notes
 - The resumes must be in PDF format.
@@ -68,5 +57,3 @@ resume-screening-app/
 - All uploaded resumes are stored temporarily in the uploads/ directory.
 
 - Ranked results are saved as ranked_resumes.csv.
-
-
