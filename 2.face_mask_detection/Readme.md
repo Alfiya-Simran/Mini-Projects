@@ -42,8 +42,8 @@ This project detects whether people are wearing a face mask in real-time using a
 ## 🚀 Getting Started
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/your-username/face-mask-detection.git
-cd face-mask-detection
+git clone https://github.com/Alfiya-Simran/2.face-mask-detection.git
+cd 2.face-mask-detection
 ```
 2. **Install Dependencies**
 ```bash
