@@ -1,4 +1,4 @@
-#  Portfolio: Projects by Alfiya Simran
+#  Mini-Projects
 
 This repository aggregates all my hands-on development projects—from AI-powered tools to NLP systems—all crafted using Python, ML, and web technologies.
 
